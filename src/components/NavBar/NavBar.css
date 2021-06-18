@@ -1,0 +1,19 @@
+.NavBar{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.navLink{
+    text-decoration: none;
+    font-size:25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(30, 52, 114);
+
+}
+.active{
+    text-decoration:underline;
+    color:rgba(98, 40, 104, 0.801);
+}

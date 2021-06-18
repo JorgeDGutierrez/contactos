@@ -1,0 +1,21 @@
+.ul{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.div{
+    border-radius: 10px;
+    size: 20px;
+    margin:10px;
+    text-align: center;
+
+}
+
+p{
+    color:rgb(107, 129, 133);
+    
+}

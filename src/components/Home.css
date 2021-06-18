@@ -1,0 +1,26 @@
+body{
+background-color: cadetblue;
+
+}
+
+.ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: space-around;
+    align-items: flex-start;
+}
+
+.div{
+    background-color:rgba(59, 9, 116, 0.555);
+    margin: 8px;
+    width:200px;
+    height:fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(224, 213, 206);
+}
+
+p{
+    text-align: center;
+}
